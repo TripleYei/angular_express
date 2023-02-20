@@ -9,6 +9,8 @@ La API
 node web.js
 ~~~~
 
+<img src="IMG/node-api.PNG">
+
 No sale el mensaje :
 
 Mirar en /yei
@@ -27,5 +29,6 @@ Para ejecutar la aplicación y se abra el navegador.
 ng serve -o
 ~~~~
 
-
+<img src="IMG/angular-primero.PNG">
+<img src="IMG/angular-segundo.PNG">
 
