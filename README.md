@@ -29,6 +29,10 @@ Para ejecutar la aplicación y se abra el navegador.
 ng serve -o
 ~~~~
 
+## Resultado.
+
+Aqui tenemos cuando Angular consume la API de Express, donde nos manda al enlace de diferentes proyectos de mi GitHub
+
 <img src="IMG/angular-primero.PNG">
 <img src="IMG/angular-segundo.PNG">
 
