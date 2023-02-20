@@ -11,7 +11,7 @@ node web.js
 
 <img src="IMG/node-api.PNG">
 
-No sale el mensaje :
+Nos sale el mensaje :
 
 Mirar en /yei
 
